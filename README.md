@@ -1,0 +1,1 @@
+Just replace your realnames patch with the TSANames.cfg file, and replace the parts folder with the one below. If something goes wrong, contact me on GitHub or Discord at unpluggedlamp. Happy Kerbaling!
