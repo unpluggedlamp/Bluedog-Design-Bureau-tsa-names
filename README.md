@@ -1,3 +1,6 @@
+# unpluggedlamp's TSA Names Patch
+Heyho! For anyone stumbling across this, this is just a version of BDB I have with an extra patch to rename some things to be more accurate with the lore of my 2.5x scale science save. It's here so I don't lose anything in any future update/as a backup. 
+
 # Bluedog-Design-Bureau
 Stockalike parts pack for Kerbal Space Program
 
