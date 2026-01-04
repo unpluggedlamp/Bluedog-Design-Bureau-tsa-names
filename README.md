@@ -1,6 +1,20 @@
 # unpluggedlamp's TSA Names Patch
 Heyho! For anyone stumbling across this, this is just a version of BDB I have with an extra patch to rename some things to be more accurate with the lore of my 2.5x scale science save. It's here so I don't lose anything in any future update/as a backup. 
 
+I've currently only done the name changes for Mercury, Gemini Lander, and some of the Big G stuff. (none uploaded yet, will do so when it's complete!) Tedious work! 
+
+## What I've changed: 
+- Mercury capsule has been renamed to Athena CRC (Crew Reentry Capsule). Descriptions have been changed to match the fact that Athena CRC only flew once on the Athena 1 mission. 
+- Gemini stuff also being renamed to fit the Athena name. 
+
+## For the future: 
+- Change Saturn/Apollo to Selene
+- Change Delta IV stuff to Selene IV 
+- Modify engine descriptions and variant names 
+- Modify Atlas variant names to match naming convention 
+- Modify Delta P/K Description  
+- Much, much more.. 
+
 # Bluedog-Design-Bureau
 Stockalike parts pack for Kerbal Space Program
 
