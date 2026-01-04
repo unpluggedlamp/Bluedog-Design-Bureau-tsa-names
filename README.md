@@ -3,11 +3,11 @@ Heyho! For anyone stumbling across this, this is just a version of BDB I have wi
 
 I've currently only done the name changes for Mercury, Gemini Lander, and some of the Big G stuff. (none uploaded yet, will do so when it's complete!) Tedious work! 
 
-## What I've changed: 
+What I've changed: 
 - Mercury capsule has been renamed to Athena CRC (Crew Reentry Capsule). Descriptions have been changed to match the fact that Athena CRC only flew once on the Athena 1 mission. 
 - Gemini stuff also being renamed to fit the Athena name. 
 
-## For the future: 
+For the future: 
 - Change Saturn/Apollo to Selene
 - Change Delta IV stuff to Selene IV 
 - Modify engine descriptions and variant names 
